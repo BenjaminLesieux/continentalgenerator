@@ -1,0 +1,54 @@
+{
+  "Bières": {
+    "kir": {
+      "price": 3.5,
+      "desc": "Vin + Sirop"
+    },
+    "Monaco": {
+      "price": 3.5,
+      "desc": "Bière + Limonade + Sirop"
+    }
+  },
+  "Cocktails": {
+    "kir": {
+      "price": 3.5,
+      "desc": "Vin + Sirop"
+    },
+    "Monaco": {
+      "price": 3.5,
+      "desc": "Bière + Limonade + Sirop"
+    },
+    "Tango": {
+      "price": 3.5,
+      "desc": "Bière + Sirop"
+    }
+  },
+  "Vins": {
+    "Rouge": {
+      "price": 4.0,
+      "desc": "supérieur"
+    },
+    "Blanc": {
+      "price": 3.0,
+      "desc": ""
+    }
+  },
+  "Mocktails (50 cl)": {
+    "Arnak": {
+      "price": 3.0,
+      "desc": "Jus cramberry + Sirop framboise + Pulco citron"
+    },
+    "L'exotic": {
+      "price": 3.0,
+      "desc": "Jus mangue + Jus orange + Sirop gingembre"
+    },
+    "Diabolo": {
+      "price": 1.0,
+      "desc": "Limonade + Sirop"
+    },
+    "Soft": {
+      "price": 1.0,
+      "desc": "Jus - Sodas - Sirop"
+    }
+  }
+}
